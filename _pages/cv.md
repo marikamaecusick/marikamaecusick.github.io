@@ -11,49 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Statistical Science, Cornell University, 2017
+* M.S. in Information Science for Health Tech, Cornell University (Cornell Tech), 2019
+* Ph.D in Health Policy, Stanford University, 2025 (expected)
 
-Work experience
+
+Honors & Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Lee B. Lusted Student Prize Finalist (SMDM conference) (2022)
+* Cornell Tech merit scholarship for master’s level study (2017)
+* Ivy league Player of the Year (2017)
+* Intercollegiate Tennis Association's Most Improve Player for the Northeast Region (2017)
+* Academic All-Ivy  (2016, 2017)
+* Intercollegiate Tennis Association Scholar Athlete (2015, 2016, 2017)
+* Cornell University Dean's List (2014, 2015, 2017)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming languages
+  * Python
+  * R
+  * SQL
+  * Stata
+* Languages
+  * Japanese (fluent)

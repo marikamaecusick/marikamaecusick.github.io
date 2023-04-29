@@ -21,7 +21,7 @@ Publications
 
 * **Cusick M\***, Rowland S, DeFelice N (2023). ["Impact of air pollution on running performance"](https://www.nature.com/articles/s41598-023-28802-x). Nature Scientific Reports. <br />
 
-* Tisdale R\*, **Cusick M\***, Zhang K, Handley T, Joyner AK, Salomon J, Chertow G, Goldhaber-Fiebert J, Owens D (2023). [“Cost-effectiveness of dapagliflozin for non- diabetic chronic kidney disease”](https://pubmed.ncbi.nlm.nih.gov/35137296/). Journal of General Internal Medicine.  <br />
+* Tisdale R\*, **Cusick M\***, Zhang K, Handley T, Joyner AK, Salomon J, Chertow G, Goldhaber-Fiebert J, Owens D (2022). [“Cost-effectiveness of dapagliflozin for non- diabetic chronic kidney disease”](https://pubmed.ncbi.nlm.nih.gov/35137296/). Journal of General Internal Medicine.  <br />
 \*These authors contributed equally to the manuscript and are co-first authors
 
 * **Cusick M\***, Velupillai S\*, Downs J, Campion T, Sholle E, Dutta R, Pathak J (2022). [“Portability of natural language processing methods to detect suicidality from clinical text in US and UK electronic health records"](https://www.sciencedirect.com/science/article/pii/S2666915322001226). Journal of Affective Disorders Reports. <br />

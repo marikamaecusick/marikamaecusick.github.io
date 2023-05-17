@@ -19,7 +19,7 @@ Publications
 * Majumder M\*, **Cusick M\***, Rose S (2023). ["Measuring concordance of data sources used for infectious disease research in the USA: a retrospective data analysis"](https://bmjopen.bmj.com/content/13/2/e065751.abstract). BMJ open. <br />
 \*These authors contributed equally to the manuscript and are co-first authors
 
-* **Cusick M\***, Rowland S, DeFelice N (2023). ["Impact of air pollution on running performance"](https://www.nature.com/articles/s41598-023-28802-x). Nature Scientific Reports. <br />
+* **Cusick M**, Rowland S, DeFelice N (2023). ["Impact of air pollution on running performance"](https://www.nature.com/articles/s41598-023-28802-x). Nature Scientific Reports. <br />
 
 * Tisdale R\*, **Cusick M\***, Zhang K, Handley T, Joyner AK, Salomon J, Chertow G, Goldhaber-Fiebert J, Owens D (2022). [“Cost-effectiveness of dapagliflozin for non- diabetic chronic kidney disease”](https://pubmed.ncbi.nlm.nih.gov/35137296/). Journal of General Internal Medicine.  <br />
 \*These authors contributed equally to the manuscript and are co-first authors

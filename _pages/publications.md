@@ -16,6 +16,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 Publications 
 -----
 
+* **Cusick M**, Tisdale R, Chertow G, Ownens D, Goldhaber-Fiebert J (2023). ["Population-wide screening for chronic kidney disease: a cost-effectiveness analysis"](https://www.acpjournals.org/doi/10.7326/M22-3228). Annals of Internal Medicine. <br />
+
 * Majumder M\*, **Cusick M\***, Rose S (2023). ["Measuring concordance of data sources used for infectious disease research in the USA: a retrospective data analysis"](https://bmjopen.bmj.com/content/13/2/e065751.abstract). BMJ open. <br />
 \*These authors contributed equally to the manuscript and are co-first authors
 

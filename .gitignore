@@ -2,4 +2,7 @@ _site/
 site/dist/
 .DS_Store
 __pycache__/
+WEBSITE-UPDATES.md
+WEBSITE-UPDATES.html
+WEBSITE-UPDATES_files/
 

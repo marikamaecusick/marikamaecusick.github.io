@@ -1,0 +1,137 @@
+{
+  "name": "Marika Mae Cusick",
+  "role": "Assistant Professor",
+  "department": "Department of Health Policy and Management",
+  "institution": "Johns Hopkins Bloomberg School of Public Health",
+  "email": "marikacusick@jhu.edu",
+  "scholar": "https://scholar.google.com/citations?user=P37hfwkAAAAJ&hl=en",
+  "github": "https://github.com/marikamaecusick",
+  "intro": "I apply computational health policy methods to inform decision-making, improve outcomes, and promote health equity in chronic disease.",
+  "about": "I apply computational health policy methods to inform decision-making, improve outcomes, and promote health equity in chronic disease. I am a tenure-track Assistant Professor in the Department of Health Policy and Management at the Johns Hopkins Bloomberg School of Public Health.",
+  "background": "I received my PhD in Health Policy from Stanford University. I also hold a BA in Statistical Science from Cornell University and an MS in Information Science for Health Tech from Cornell Tech.",
+  "cv_date": "February 11, 2026",
+  "themes": [
+    {
+      "title": "Chronic disease prevention",
+      "text": "Evaluating the health benefits, cost-effectiveness, and affordability of prevention strategies, with a focus on cardiovascular-kidney-metabolic health and chronic kidney disease."
+    },
+    {
+      "title": "Algorithmic evaluation",
+      "text": "Examining how clinical algorithms and AI influence decision-making, health outcomes, and health disparities."
+    },
+    {
+      "title": "Computational health policy methods",
+      "text": "Developing novel decision-modeling frameworks and fair regression techniques for health policy analysis."
+    }
+  ],
+  "publications": [
+    {
+      "year": "2026",
+      "title": "Hypertension disease natural history and healthcare utilization when treatment guidelines do not account for race",
+      "authors": "Cusick MM, Barrett M, Alarid-Escudero F, Goldhaber-Fiebert JD, Rose S",
+      "journal": "medRxiv · Preprint",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.05.26364804v2",
+      "tags": [
+        "Policy evaluation",
+        "Health equity"
+      ],
+      "selected_order": 1
+    },
+    {
+      "year": "2026",
+      "title": "A novel decision-modeling framework for health policy analyses when outcomes are influenced by social and disease processes",
+      "authors": "Cusick M, Alarid-Escudero F, Goldhaber-Fiebert J, Rose S",
+      "journal": "Medical Decision Making",
+      "url": "https://journals.sagepub.com/doi/10.1177/0272989X251408817",
+      "tags": [
+        "Methods",
+        "Health equity"
+      ],
+      "selected_order": 2
+    },
+    {
+      "year": "2025",
+      "title": "Balancing efficiency and equity in population-wide CKD screening",
+      "authors": "Cusick M, Tisdale R, Adams A, Chertow G, Salomon J, Owens D, Goldhaber-Fiebert J",
+      "journal": "JAMA Network Open",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2832754",
+      "tags": [
+        "Chronic disease prevention",
+        "Health Equity",
+        "Cost-effectiveness analysis"
+      ]
+    },
+    {
+      "year": "2024",
+      "title": "When to start population-wide screening for chronic kidney disease: a cost-effectiveness analysis",
+      "authors": "Cusick M, Tisdale R, Chertow G, Owens D, Goldhaber-Fiebert J, Salomon J",
+      "journal": "JAMA Health Forum",
+      "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/2825778",
+      "tags": [
+        "Chronic disease prevention",
+        "Cost-effectiveness analysis"
+      ]
+    },
+    {
+      "year": "2024",
+      "title": "Algorithmic changes are not enough: evaluating the removal of race adjustment from the eGFR equation",
+      "authors": "Cusick M, Chertow G, Owens D, Williams M, Rose S",
+      "journal": "Conference on Health, Inference, and Learning",
+      "url": "https://proceedings.mlr.press/v248/cusick24a.html",
+      "tags": [
+        "Algorithmic evaluation",
+        "Health equity"
+      ],
+      "selected_order": 3
+    },
+    {
+      "year": "2023",
+      "title": "Population-wide screening for chronic kidney disease: a cost-effectiveness analysis",
+      "authors": "Cusick M, Tisdale R, Chertow G, Owens D, Goldhaber-Fiebert J",
+      "journal": "Annals of Internal Medicine",
+      "url": "https://www.acpjournals.org/doi/10.7326/M22-3228",
+      "tags": [
+        "Chronic disease prevention",
+        "Cost-effectiveness analysis"
+      ],
+      "selected_order": 4
+    },
+    {
+      "year": "2023",
+      "title": "Measuring concordance of data sources used for infectious disease research in the USA: a retrospective data analysis",
+      "authors": "Majumder M*, Cusick M*, Rose S · *Equal contribution",
+      "journal": "BMJ Open",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36854597/",
+      "tags": [
+        "Informatics"
+      ]
+    },
+    {
+      "year": "2022",
+      "title": "Cost-effectiveness of dapagliflozin for non-diabetic chronic kidney disease",
+      "authors": "Tisdale R*, Cusick M*, Zhang K, Handley T, Joyner AK, Salomon J, Chertow G, Goldhaber-Fiebert J, Owens D · *Equal contribution",
+      "journal": "Journal of General Internal Medicine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35137296/",
+      "tags": [
+        "Cost-effectiveness analysis"
+      ]
+    }
+  ],
+  "media": [
+    {
+      "source": "Stanford HAI · Policy brief",
+      "title": "The complexities of race adjustment in health algorithms",
+      "url": "https://hai.stanford.edu/policy-brief/The-Complexities-of-Race-Adjustment-in-Health-Algorithms"
+    },
+    {
+      "source": "Nature · Research coverage",
+      "title": "Making kidney tests work for everyone",
+      "url": "https://www.nature.com/articles/d41586-024-04100-y"
+    },
+    {
+      "source": "STAT · Research coverage",
+      "title": "Routine screening for kidney disease would be cost-effective, study argues",
+      "url": "https://www.statnews.com/2023/05/22/chronic-kidney-disease-screening-found-cost-effective/"
+    }
+  ]
+}

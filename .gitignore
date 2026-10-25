@@ -1,2 +1,5 @@
 _site/
+site/dist/
+.DS_Store
+__pycache__/
 
